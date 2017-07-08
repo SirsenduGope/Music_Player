@@ -1,0 +1,14 @@
+{
+  "name": "music_player",
+  "version": "1.0.0",
+  "description": "Desktop media player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sirsendu Gope",
+  "license": "ISC",
+  "devDependencies":{
+  	"electron-prebuilt":"^1.1.0"
+  }
+}
